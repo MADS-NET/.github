@@ -8,7 +8,7 @@ The MADS tools collection includes a broker and a set of general purpose agents 
 
 Some of the available plugins are:
 
-* [arduino_plugin](/MADS-NET/arduino_plugin): reads from a serial connected arduino
-* [hpe2D_plugin](/MADS-NET/hpe2d_plugin): performs human pose estimation from a camera stream
-* [mqtt_plugin](/MADS-NET/mqtt_plugin): acts as a bridge with an MQTT network
+* [arduino_plugin](https://github.com/MADS-NET/arduino_plugin): reads from a serial connected arduino
+* [hpe2D_plugin](https://github.com/MADS-NET/hpe2d_plugin): performs human pose estimation from a camera stream
+* [mqtt_plugin](https://github.com/MADS-NET/mqtt_plugin): acts as a bridge with an MQTT network
 
