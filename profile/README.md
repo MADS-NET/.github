@@ -11,5 +11,5 @@ Some of the available plugins are:
 * [arduino_plugin](https://github.com/MADS-NET/arduino_plugin): reads from a serial connected arduino
 * [hpe2D_plugin](https://github.com/MADS-NET/hpe2d_plugin): performs human pose estimation from a camera stream
 * [mqtt_plugin](https://github.com/MADS-NET/mqtt_plugin): acts as a bridge with an MQTT network
-* [say_plugin](https://github.com/MADS-NET/say_pluin): Text-to-speech of incoming messages
+* [say_plugin](https://github.com/MADS-NET/say_plugin): Text-to-speech of incoming messages
 
