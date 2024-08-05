@@ -12,4 +12,5 @@ Some of the available plugins are:
 * [hpe2D_plugin](https://github.com/MADS-NET/hpe2d_plugin): performs human pose estimation from a camera stream
 * [mqtt_plugin](https://github.com/MADS-NET/mqtt_plugin): acts as a bridge with an MQTT network
 * [say_plugin](https://github.com/MADS-NET/say_plugin): Text-to-speech of incoming messages
+* [ble_plugin](https://github.com/MADS-NET/ble_plugin): Bluetooth Low Energy source plugin
 
