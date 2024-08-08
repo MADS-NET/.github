@@ -13,4 +13,5 @@ Some of the available plugins are:
 * [mqtt_plugin](https://github.com/MADS-NET/mqtt_plugin): acts as a bridge with an MQTT network
 * [say_plugin](https://github.com/MADS-NET/say_plugin): Text-to-speech of incoming messages
 * [ble_plugin](https://github.com/MADS-NET/ble_plugin): Bluetooth Low Energy source plugin
+* [tui_plugin](https://github.com/MADS-NET/tui_plugin): Terminal User Interface for sending metadata commands to MADS network
 
