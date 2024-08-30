@@ -15,4 +15,5 @@ Some of the available plugins are:
 * [ble_plugin](https://github.com/MADS-NET/ble_plugin): Bluetooth Low Energy source plugin
 * [tui_plugin](https://github.com/MADS-NET/tui_plugin): Terminal User Interface for sending metadata commands to MADS network
 * [lua_plugin](https://github.com/MADS-NET/lua_plugin): Interfacing Lua scripts to the MADS network (useful for prototyping and rapid development)
+* [lua_plugin](https://github.com/MADS-NET/python_plugin): Interfacing Python3 scripts to the MADS network (useful for prototyping and rapid development)
 
