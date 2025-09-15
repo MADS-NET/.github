@@ -17,6 +17,9 @@ Some of the available plugins are:
 * [lua_plugin](https://github.com/MADS-NET/lua_plugin): Interfacing Lua scripts to the MADS network (useful for prototyping and rapid development)
 * [hdf5_plugin](https://github.com/MADS-NET/hdf5_plugin): a sink agent that logs data traffic into a HDF5 file
 * [rpio_plugin](https://github.com/MADS-NET/rpio_plugin): source and sink agents for Raspberry Pi GPIO pins (using `libgpiod` v1.6)
+* [rerunner_plugin](https://github.com/MADS-NET/rerunner_plugin): a sink agent that logs data to the [Rerun.io](https://rerun.io) viewer
+* [replay_plugin](https://github.com/MADS-NET/replay_plugin): a source agent taht replays data reading from a CSV file
+* [agent_status_plugin](https://github.com/MADS-NET/agent_status_plugin): a sink agent that tracks active agents and their status
 
 There are also additional monolithic agents:
 
