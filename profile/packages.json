@@ -1,3 +1,23 @@
 {
-  "description": "MADS-NET instalable packages"
+  "description": "MADS-NET installable packages"
+  "packages": {
+    "mads-chat": {
+      "URI": "https://github.com/MADS-NET/mads_chat"
+    },
+    "mads-fmu": {
+      "URI": "https://github.com/MADS-NET/FMU_agent"
+    },
+    "mads-python": {
+      "URI": "https://github.com/MADS-NET/python_agent"
+    }
+    "validator.plugin": {
+      "URI": "https://github.com/MADS-NET/validator_plugin"
+    },
+    "rerunner.plugin": {
+      "URI": "https://github.com/MADS-NET/rerunner_plugin"
+    },
+    "tui.plugin": {
+      "URI": "https://github.com/MADS-NET/tui_plugin"
+    }
+  }
 }
