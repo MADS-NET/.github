@@ -9,7 +9,7 @@
     },
     "mads-python": {
       "URI": "https://github.com/MADS-NET/python_agent"
-    }
+    },
     "validator.plugin": {
       "URI": "https://github.com/MADS-NET/validator_plugin"
     },
