@@ -1,5 +1,5 @@
 {
-  "description": "MADS-NET installable packages",
+  "description": "MADS installable packages",
   "packages": {
     "mads-chat": {
       "URI": "https://github.com/MADS-NET/mads_chat"
