@@ -24,6 +24,10 @@
     "tui.plugin": {
       "URI": "https://github.com/MADS-NET/tui_plugin",
       "type": "plugin"
+    },
+    "r.plugin": {
+      "URI": "https://github.com/MADS-NET/r_plugin",
+      "type": "plugin"
     }
   }
 }
