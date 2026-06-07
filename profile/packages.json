@@ -2,22 +2,28 @@
   "description": "MADS installable packages",
   "packages": {
     "mads-chat": {
-      "URI": "https://github.com/MADS-NET/mads_chat"
+      "URI": "https://github.com/MADS-NET/mads_chat",
+      "type": "tool"
     },
     "mads-fmu": {
-      "URI": "https://github.com/MADS-NET/FMU_agent"
+      "URI": "https://github.com/MADS-NET/FMU_agent",
+      "type": "agent"
     },
     "mads-python": {
-      "URI": "https://github.com/MADS-NET/python_agent"
+      "URI": "https://github.com/MADS-NET/python_agent",
+      "type": "agent"
     },
     "validator.plugin": {
-      "URI": "https://github.com/MADS-NET/validator_plugin"
+      "URI": "https://github.com/MADS-NET/validator_plugin",
+      "type": "plugin"
     },
     "rerunner.plugin": {
-      "URI": "https://github.com/MADS-NET/rerunner_plugin"
+      "URI": "https://github.com/MADS-NET/rerunner_plugin",
+      "type": "plugin"
     },
     "tui.plugin": {
-      "URI": "https://github.com/MADS-NET/tui_plugin"
+      "URI": "https://github.com/MADS-NET/tui_plugin",
+      "type": "plugin"
     }
   }
 }
