@@ -28,6 +28,10 @@
     "r.plugin": {
       "URI": "https://github.com/MADS-NET/r_plugin",
       "type": "plugin"
+    },
+    "arduino.plugin": {
+      "URI": "https://github.com/MADS-NET/arduino_plugin",
+      "type": "plugin"
     }
   }
 }
