@@ -36,6 +36,10 @@
     "arduinoQ.plugin": {
       "URI": "https://github.com/MADS-NET/arduinoQ_plugin",
       "type": "plugin"
+    },
+    "hdf5.plugin": {
+      "URI": "https://github.com/MADS-NET/hdf5_plugin",
+      "type": "plugin"
     }
   }
 }
