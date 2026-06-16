@@ -41,7 +41,7 @@
       "URI": "https://github.com/MADS-NET/hdf5_plugin",
       "type": "plugin"
     },
-    "onnx-agent": {
+    "mads-onnx": {
       "URI": "https://github.com/MADS-NET/onnx_agent",
       "type": "agent"
     }
