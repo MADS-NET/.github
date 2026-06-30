@@ -9,6 +9,10 @@
       "URI": "https://github.com/MADS-NET/FMU_agent",
       "type": "agent"
     },
+    "mads-python": {
+      "URI": "https://github.com/MADS-NET/python_agent",
+      "type": "agent"
+    },
     "validator.plugin": {
       "URI": "https://github.com/MADS-NET/validator_plugin",
       "type": "plugin"
