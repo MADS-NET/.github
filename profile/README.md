@@ -11,6 +11,7 @@ The `mads package` command can install pre-compiled binaries of the most common 
 The pre-build bianaries available via `mads package` are:
 
 * `arduino.plugin`: Interfacing with an Arduino via Serial port [repo](https://github.com/MADS-NET/arduino_plugin)
+* `signals.plugin`: Generates fake signals (harmonics, noise, ARIMA, custom, etc.) [repo](https://github.com/MADS-NET/signals_plugin)
 * `arduinoQ.plugin`: Runs on an Arduino Uno Q and directly taps into its MCU [repo](https://github.com/MADS-NET/arduinoQ_plugin)
 * `hdf5.plugin`: Dumps data into a HDF5 file [repo](https://github.com/MADS-NET/hdf5_plugin)
 * `mads-chat`: Allows to chat with the MADS network [repo](https://github.com/MADS-NET/mads_chat)
