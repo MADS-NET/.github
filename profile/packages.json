@@ -1,18 +1,6 @@
 {
   "description": "MADS installable packages",
   "packages": {
-    "mads-chat": {
-      "URI": "https://github.com/MADS-NET/mads_chat",
-      "type": "tool"
-    },
-    "mads-fmu": {
-      "URI": "https://github.com/MADS-NET/FMU_agent",
-      "type": "agent"
-    },
-    "mads-python": {
-      "URI": "https://github.com/MADS-NET/python_agent",
-      "type": "agent"
-    },
     "validator.plugin": {
       "URI": "https://github.com/MADS-NET/validator_plugin",
       "type": "plugin"
@@ -45,9 +33,5 @@
       "URI": "https://github.com/MADS-NET/signals_plugin",
       "type": "plugin"
     },
-    "mads-onnx": {
-      "URI": "https://github.com/MADS-NET/onnx_agent",
-      "type": "agent"
-    }
   }
 }
