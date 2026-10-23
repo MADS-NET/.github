@@ -32,6 +32,6 @@
     "signals.plugin": {
       "URI": "https://github.com/MADS-NET/signals_plugin",
       "type": "plugin"
-    },
+    }
   }
 }
