@@ -32,6 +32,10 @@
     "signals.plugin": {
       "URI": "https://github.com/MADS-NET/signals_plugin",
       "type": "plugin"
+    },
+    "mongodb.plugin": {
+      "URI": "https://github.com/MADS-NET/mongodb_plugin",
+      "type": "plugin"
     }
   }
 }
